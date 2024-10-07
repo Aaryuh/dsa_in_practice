@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class ArrayHashset_DuplicateInteger {
+public class ArrayHashset_ {
 
     public static boolean hasDuplicate(int[] nums) {
         HashSet<Integer> unique= new HashSet<>();
